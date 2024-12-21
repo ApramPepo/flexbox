@@ -1,0 +1,26 @@
+* {
+    background-color: peachpuff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+    margin: 6px;
+    padding: 20px;
+    border: 6px solid #00aeff;
+    border-radius: 10px;
+}
+
+.container div {
+    background-color: #0000ff;
+    color: aliceblue;
+    display: flex;
+    border-radius: 6px;
+    border: rgb(255, 255, 255) solid ;
+    padding: 4px;
+    box-sizing: border-box;
+}
+
